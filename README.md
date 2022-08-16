@@ -1,2 +1,2 @@
 # git_test
-The first in a line of plenty.
+The first commit in a line of plenty.
